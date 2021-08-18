@@ -41,7 +41,7 @@ namespace Semana4_primer_proyecto_formularios_vcsharp
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(232, 90);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Aceptar";
+            this.button1.Text = "Cancelar";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // Form1
